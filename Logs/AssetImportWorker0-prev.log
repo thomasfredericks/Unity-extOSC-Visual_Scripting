@@ -15,11 +15,11 @@ C:/Users/tofredericks/Desktop/Unity/Serial ASCII
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62667
+64235
 Successfully changed project path to: C:/Users/tofredericks/Desktop/Unity/Serial ASCII
 C:/Users/tofredericks/Desktop/Unity/Serial ASCII
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 69.34 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 71.03 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/unity.exe/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,159 +35,71 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Editor/unity.exe/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Editor/unity.exe/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Editor/unity.exe/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56920
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56376
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Editor/unity.exe/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001695 seconds.
+Registered in 0.002316 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 79.24 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 88.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.055 seconds
+- Completed reload, in  1.184 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002700 seconds.
+Registered in 0.002731 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.239 seconds
+- Completed reload, in  1.419 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2873 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2874 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 103.5 MB.
-System memory in use after: 103.6 MB.
+System memory in use after: 103.7 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3327.
-Total: 2.344200 ms (FindLiveObjects: 0.264300 ms CreateObjectMapping: 0.170300 ms MarkObjects: 1.833500 ms  DeleteObjects: 0.074900 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3328.
+Total: 2.340300 ms (FindLiveObjects: 0.257800 ms CreateObjectMapping: 0.180300 ms MarkObjects: 1.823100 ms  DeleteObjects: 0.077900 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/ParseOSC.cs
-  artifactKey: Guid(174013401bc924445af8c1ba8e52d8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ParseOSC.cs using Guid(174013401bc924445af8c1ba8e52d8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8e394a1c8f8cbe42a225c6702b4f4a') in 0.020175 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 91.838981 seconds.
-  path: Assets/extOSC/Examples/01) Getting Started
-  artifactKey: Guid(9e8ea454fe0674ae7b29a5f487b10f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/01) Getting Started using Guid(9e8ea454fe0674ae7b29a5f487b10f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acbf8682ed1c9712d8a96649a2c21959') in 0.002180 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.774473 seconds.
-  path: Assets/extOSC/Examples/01) Getting Started/Getting Started.unity
-  artifactKey: Guid(ea6bd954b791a401f844a6869a8c9378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/01) Getting Started/Getting Started.unity using Guid(ea6bd954b791a401f844a6869a8c9378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651292a0cb1ed3719e4fc057ad275e72') in 0.008529 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.878576 seconds.
-  path: Assets/extOSC/Examples/01) Getting Started/Scripts
-  artifactKey: Guid(75020ba27b0954f1288efd9fb0b26ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/01) Getting Started/Scripts using Guid(75020ba27b0954f1288efd9fb0b26ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33332a09175a2b08108412b326c9898f') in 0.002136 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.191140 seconds.
-  path: Assets/extOSC/Examples/01) Getting Started/Scripts/SimpleMessageReceiver.cs
-  artifactKey: Guid(0d4043274b57c4c039efe20febc16183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/01) Getting Started/Scripts/SimpleMessageReceiver.cs using Guid(0d4043274b57c4c039efe20febc16183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0ef7043837c9ecdc6657ba006139f8') in 0.002323 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.069968 seconds.
-  path: Assets/extOSC/Examples/02) Value Types
-  artifactKey: Guid(af3bae4aa500643cc8ab43c38f6dc1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/02) Value Types using Guid(af3bae4aa500643cc8ab43c38f6dc1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b37c3b549a6c26853c4c47587c66417c') in 0.002030 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.041278 seconds.
-  path: Assets/extOSC/Examples/02) Value Types/Scripts
-  artifactKey: Guid(4c64a61dd6c844794bdb23010c508e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/02) Value Types/Scripts using Guid(4c64a61dd6c844794bdb23010c508e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4741fba74014600483a517fa526672a0') in 0.001613 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.872797 seconds.
-  path: Assets/extOSC/Examples/02) Value Types/Scripts/ValueTypesExample.cs
-  artifactKey: Guid(0e101aa33d9b34e1db6a2b8bf88723cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/02) Value Types/Scripts/ValueTypesExample.cs using Guid(0e101aa33d9b34e1db6a2b8bf88723cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e18f9463522f136eaeb9b498ffab48') in 0.002111 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 38.598973 seconds.
-  path: Assets/extOSC/Examples/03) Events
-  artifactKey: Guid(c976d5cd5be4743ed95baa6ee6127661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/03) Events using Guid(c976d5cd5be4743ed95baa6ee6127661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba68ec50bc609d178d74eec08e6a3652') in 0.001972 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.166006 seconds.
-  path: Assets/extOSC/Examples/03) Events/Scripts
-  artifactKey: Guid(e29390c72d06d48ab81d8122f9f13dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/03) Events/Scripts using Guid(e29390c72d06d48ab81d8122f9f13dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc524cb545da89b17496566463353c75') in 0.001712 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.645095 seconds.
-  path: Assets/extOSC/Examples/03) Events/Scripts/EventsExample.cs
-  artifactKey: Guid(4527cc0486a6844de89b69417577a360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/03) Events/Scripts/EventsExample.cs using Guid(4527cc0486a6844de89b69417577a360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651ba319e68f3c92e99ceb089718b4fe') in 0.002165 seconds 
+  path: Assets/MyEventNode.cs
+  artifactKey: Guid(7fd38cb3271765242a9f5ed03ad6bf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyEventNode.cs using Guid(7fd38cb3271765242a9f5ed03ad6bf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0e6310ac1ef34659bd61da9804d966') in 0.017889 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002147 seconds.
+Registered in 0.002128 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.844 seconds
+- Completed reload, in  1.086 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2868 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2869 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 103.5 MB.
 System memory in use after: 103.7 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3330.
-Total: 2.135800 ms (FindLiveObjects: 0.248800 ms CreateObjectMapping: 0.162400 ms MarkObjects: 1.674900 ms  DeleteObjects: 0.048500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 140.075531 seconds.
-  path: Assets/receiveOsc Visual Script.asset
-  artifactKey: Guid(93610fc33e1549341a2c0db9497ee7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/receiveOsc Visual Script.asset using Guid(93610fc33e1549341a2c0db9497ee7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee8360495d7e732f8e0f3ed1e9cbb88') in 0.399307 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003232 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.214 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2868 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 103.5 MB.
-System memory in use after: 103.7 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3333.
-Total: 2.515100 ms (FindLiveObjects: 0.300700 ms CreateObjectMapping: 0.230300 ms MarkObjects: 1.938100 ms  DeleteObjects: 0.045000 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3331.
+Total: 2.057600 ms (FindLiveObjects: 0.261800 ms CreateObjectMapping: 0.165200 ms MarkObjects: 1.576000 ms  DeleteObjects: 0.053500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002117 seconds.
+Registered in 0.002439 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
@@ -195,99 +107,27 @@ Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.862 seconds
+- Completed reload, in  0.823 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2868 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2869 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 103.5 MB.
 System memory in use after: 103.7 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3336.
-Total: 1.814700 ms (FindLiveObjects: 0.217300 ms CreateObjectMapping: 0.138100 ms MarkObjects: 1.415900 ms  DeleteObjects: 0.042100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002165 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.967 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2868 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 103.6 MB.
-System memory in use after: 103.8 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3339.
-Total: 1.979400 ms (FindLiveObjects: 0.231800 ms CreateObjectMapping: 0.145300 ms MarkObjects: 1.562900 ms  DeleteObjects: 0.038400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002726 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.955 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2868 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 103.6 MB.
-System memory in use after: 103.8 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3342.
-Total: 1.945000 ms (FindLiveObjects: 0.217500 ms CreateObjectMapping: 0.131200 ms MarkObjects: 1.551700 ms  DeleteObjects: 0.043300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002694 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Serial ASCII\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.008 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2868 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 103.6 MB.
-System memory in use after: 103.8 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3345.
-Total: 2.012100 ms (FindLiveObjects: 0.233800 ms CreateObjectMapping: 0.165100 ms MarkObjects: 1.568500 ms  DeleteObjects: 0.043200 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3334.
+Total: 2.010700 ms (FindLiveObjects: 0.243300 ms CreateObjectMapping: 0.170600 ms MarkObjects: 1.546800 ms  DeleteObjects: 0.048900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1905.659760 seconds.
-  path: Assets/extOSC/Examples/13) Marshalling
-  artifactKey: Guid(d87d359eda3be486fbca9a8e81d6a087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/13) Marshalling using Guid(d87d359eda3be486fbca9a8e81d6a087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac853b2851f988a3f617bbde84c7904') in 0.007035 seconds 
+  Time since last request: 16.460868 seconds.
+  path: Assets/MyEventNode.cs
+  artifactKey: Guid(7fd38cb3271765242a9f5ed03ad6bf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyEventNode.cs using Guid(7fd38cb3271765242a9f5ed03ad6bf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccefa35eeb246d0f04f1d79732adc6e5') in 0.004666 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.328015 seconds.
-  path: Assets/extOSC/Examples/07) Scripting/Scripts
-  artifactKey: Guid(9ba07109648e547da84598a323e02386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/07) Scripting/Scripts using Guid(9ba07109648e547da84598a323e02386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99ff0b35a6ee48e3327a47a131c9f5d') in 0.001868 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.448072 seconds.
-  path: Assets/extOSC/Examples/07) Scripting/Scripts/ScriptingExample.cs
-  artifactKey: Guid(5d3d1635b1c9a49739d3caf6ca892447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Examples/07) Scripting/Scripts/ScriptingExample.cs using Guid(5d3d1635b1c9a49739d3caf6ca892447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b5427796d053015134d6e175b9ba7d') in 0.001859 seconds 
+  Time since last request: 470.281532 seconds.
+  path: Assets/receiveOsc Visual Script.asset
+  artifactKey: Guid(93610fc33e1549341a2c0db9497ee7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/receiveOsc Visual Script.asset using Guid(93610fc33e1549341a2c0db9497ee7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df42ffdc778225911d400481dc38dc95') in 0.444651 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

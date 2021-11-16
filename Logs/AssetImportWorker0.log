@@ -462,3 +462,38 @@ System memory in use after: 103.9 MB.
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3376.
 Total: 2.185000 ms (FindLiveObjects: 0.224400 ms CreateObjectMapping: 0.112000 ms MarkObjects: 1.801500 ms  DeleteObjects: 0.045900 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 3201.060189 seconds.
+  path: Assets/receiveOsc Visual Script.asset
+  artifactKey: Guid(93610fc33e1549341a2c0db9497ee7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/receiveOsc Visual Script.asset using Guid(93610fc33e1549341a2c0db9497ee7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc0a72aa24192f827cef8d06df85113') in 0.446520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.535468 seconds.
+  path: Assets/OSC Example Visual Script.asset
+  artifactKey: Guid(93610fc33e1549341a2c0db9497ee7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OSC Example Visual Script.asset using Guid(93610fc33e1549341a2c0db9497ee7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ee7b6e5ddbac7eeaf79c3ec8b54396') in 0.005834 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002224 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Unity-extOSC-Visual_Scripting\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tofredericks\Desktop\Unity\Unity-extOSC-Visual_Scripting\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2868 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.7 MB.
+System memory in use after: 103.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3378.
+Total: 2.115200 ms (FindLiveObjects: 0.224900 ms CreateObjectMapping: 0.146500 ms MarkObjects: 1.698200 ms  DeleteObjects: 0.044500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

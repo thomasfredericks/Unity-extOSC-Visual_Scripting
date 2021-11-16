@@ -449,7 +449,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 174013401bc924445af8c1ba8e52d8d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  receiver: {fileID: 1844102507}
   address: /pot
 --- !u!114 &1844102510
 MonoBehaviour:
@@ -494,5 +493,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 174013401bc924445af8c1ba8e52d8d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  receiver: {fileID: 0}
   address: /abc
